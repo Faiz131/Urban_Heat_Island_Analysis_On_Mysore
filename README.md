@@ -10,7 +10,7 @@ This project explores the **Urban Heat Island (UHI) effect** in Mysore using **G
 ##  Tools & Technologies  
 - **Google Earth Engine (GEE)** for satellite image processing  
 - **QGIS** for spatial data visualization  
-- **Python** for data analysis and regression modeling  
+- **JavaScript & Python** for data analysis and regression modeling  
 
 ##  Key Findings  
 - Higher **NDVI (green cover)** leads to **lower temperatures**, confirming the cooling effect of vegetation.  
